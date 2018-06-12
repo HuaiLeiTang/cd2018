@@ -32,13 +32,13 @@
 
 這次用pyslvs中的六連桿範例做出可以模擬出循環至少兩次的鋼球運動系統，pyslvs可以一邊更改尺寸一邊做模擬，知道架構後我們輸出成2Dslvs，開solvespace知道各個連桿實際尺寸之後，再用OnShape繪製零件並組合，最後再用V-rep模擬，那這次比較困難的部分是V-rep的零件的樹狀組裝和Dummy的使用。
 
-### [40523146.pyslvs](https://github.com/s40523145/cd2018/blob/gh-pages/40523146%20W10/40523146.pyslvs)
+### [40523146.pyslvs](https://github.com/s40523145/cd2018/blob/gh-pages/40523146 W10/40523146.pyslvs)
 
-### [40523146.slvs](https://github.com/s40523145/cd2018/blob/gh-pages/40523146%20W10/40523146.slvs)
+### [40523146.slvs](https://github.com/s40523145/cd2018/blob/gh-pages/40523146 W10/40523146.slvs)
 
-### [Assembly .stl](https://github.com/s40523145/cd2018/blob/gh-pages/40523146%20W10/Assembly%20.stl)
+### [Assembly .stl](https://github.com/s40523145/cd2018/blob/gh-pages/40523146 W10/Assembly .stl)
 
-### [SIX BAR FINAL.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/40523146%20W10/SIX%20BAR%20FINAL.ttt)
+### [SIX BAR FINAL.ttt](https://github.com/s40523145/cd2018/blob/gh-pages/40523146 W10/SIX BAR FINAL.ttt)
 
 ### [模擬影片\(1\)](https://www.youtube.com/watch?v=dj40uLCovRA)
 

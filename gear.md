@@ -32,7 +32,5 @@
 
 [https://github.com/JMG1/FreeTruck](https://github.com/JMG1/FreeTruck)
 
-
-
 心得:剛開始還沒把cango放入倉儲資料夾的時候，只有在有Brython的情況下，前面兩個有成功在近端顯示出來，但是動態模擬就變成一片白，後來把cango放入跟Brython一樣的資料夾就可以了
 
